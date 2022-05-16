@@ -1,5 +1,5 @@
 
-#https://d3c33hcgiwev3.cloudfront.net/b5iOOC7FSPKYjjguxYjyqQ_c3961931ea1d422da08da3ca484beff1_Vectors-and-lists-in-R.pdf?Expires=1639958400&Signature=S1LK7TQx6IJQW0HXG8ysOTI6tTfttPS~rvm0GVXjaL1t~kxKespoer4fGrybU33IskWRkfeJ1Ai7bJ6kbE7fpQwj8cbmiqBG~SDxipCU757KqEDT68X7kMsTJvcbTzErvra2n8oYaIxkCnPgIaPg13lTqVIqVMvlQhlyYcWlALo_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+# https://d3c33hcgiwev3.cloudfront.net/b5iOOC7FSPKYjjguxYjyqQ_c3961931ea1d422da08da3ca484beff1_Vectors-and-lists-in-R.pdf?Expires=1639958400&Signature=S1LK7TQx6IJQW0HXG8ysOTI6tTfttPS~rvm0GVXjaL1t~kxKespoer4fGrybU33IskWRkfeJ1Ai7bJ6kbE7fpQwj8cbmiqBG~SDxipCU757KqEDT68X7kMsTJvcbTzErvra2n8oYaIxkCnPgIaPg13lTqVIqVMvlQhlyYcWlALo_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
 #tipos de vectores: Atomic y Lists
 
 ##ATOMIC
